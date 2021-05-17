@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Brent Albers
 
 ### ©️2019 Run Buddy, Inc 
 https://github.com/BA1bers/runbuddy/
