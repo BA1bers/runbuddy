@@ -12,5 +12,3 @@ Made with ❤️ by Brent Albers
 
 ### ©️2019 Run Buddy, Inc 
 https://github.com/BA1bers/runbuddy/
-## Contribution
-Made with ❤️ by Brent Albers
